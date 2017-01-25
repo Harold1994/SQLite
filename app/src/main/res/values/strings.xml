@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="createdb">createdb</string>
+    <string name="updatedb">updatedb</string>
+    <string name="insert">insert</string>
+    <string name="update">update</string>
+    <string name="query">query</string>
+    <string name="delete">delete</string>
+</resources>
